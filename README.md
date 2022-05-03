@@ -7,6 +7,7 @@ Postman Cheat Sheet with the most needed stuff..
 <br>
 
 ## Pre-request Script
+- https://learning.postman.com/docs/writing-scripts/pre-request-scripts/
 
 #### Get Bearer Token and set if before request
 ```javascript
@@ -58,3 +59,10 @@ pm.environment.unset("variable_key");
 ```
 {{access_token}}
 ```
+
+
+<br><br>
+<br><br>
+
+#### Global pre-request script
+- Right click on Postman collection -> Edit -> Pre-request Script
