@@ -105,4 +105,8 @@ _____________________________________________________________________
 ## Version Control
 - https://learning.postman.com/docs/collaborating-in-postman/version-control/
 
+<br><br>
+
+## Github Backup/Sync
+- https://blog.postman.com/backup-and-sync-your-postman-collections-on-github/
 
