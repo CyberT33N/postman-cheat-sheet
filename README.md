@@ -66,7 +66,7 @@ pm.environment.unset("variable_key");
 <br><br>
 
 #### Global pre-request script
-- Right click on Postman collection -> Edit -> Pre-request Script
+- Click on the Collection and new Tab will open > Pre-request Script. Or click three dots next to Postman collection -> Edit -> Pre-request Script
   - Then in your Request in your Postman Collection Auth -> Inherit auth from parent
   
   
