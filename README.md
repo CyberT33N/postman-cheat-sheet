@@ -87,6 +87,55 @@ pm.environment.unset("variable_key");
   
   
   
+ 
+<br><br>
+<br><br>
+_____________________________________________________________________
+_____________________________________________________________________
+  
+<br><br>
+<br><br>
+
+
+
+
+
+
+# Integration 
+
+<br><br>
+
+## Github
+- Home > Integration > Github
+  - You can currently not create personal tokens in organisations
+    - That's not possible currently, you can only create tokens for user accounts since user accounts have permissions associated with them (organizations don't). So, you'd need to create a token with an account which has access to the repository in question and give that to Travis. You can also create a machine account for that purpose.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
   
  
 <br><br>
