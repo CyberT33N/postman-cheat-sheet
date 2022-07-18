@@ -3,6 +3,7 @@ Postman Cheat Sheet with the most needed stuff..
 
 
 
+
 <br>
 <br>
 
@@ -67,3 +68,41 @@ pm.environment.unset("variable_key");
 #### Global pre-request script
 - Right click on Postman collection -> Edit -> Pre-request Script
   - Then in your Request in your Postman Collection Auth -> Inherit auth from parent
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+<br><br>
+<br><br>
+_____________________________________________________________________
+_____________________________________________________________________
+  
+<br><br>
+<br><br>
+
+
+# Guides
+
+<br><br>
+
+## Version Control
+- https://learning.postman.com/docs/collaborating-in-postman/version-control/
+
+
